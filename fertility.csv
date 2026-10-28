@@ -1,0 +1,251 @@
+index,Year,Hispanic Origin,Live Births,Birth Rates,Fertility Rates
+0,1989,All origins,3903012,16.3,69.2
+1,1989,Central and South American,72443,28.3,95.8
+2,1989,Cuban,10842,10.0,49.8
+3,1989,Mexican,327233,25.7,106.6
+4,1989,Non-Hispanic Black,611269,22.8,84.8
+5,1989,Non-Hispanic White,2526367,14.2,60.5
+6,1989,Other and unknown Hispanic,65502,*,*
+7,1989,Puerto Rican,56229,23.7,86.6
+8,1989,Total Hispanic,532249,26.2,104.9
+9,1989,Total Non-Hispanic,3297493,15.4,65.7
+10,1990,All origins,4092994,16.7,71.0
+11,1990,Central and South American,83008,27.5,102.7
+12,1990,Cuban,11311,10.9,52.6
+13,1990,Mexican,385640,28.7,118.9
+14,1990,Non-Hispanic Black,661701,23.0,89.0
+15,1990,Non-Hispanic White,2626500,14.4,62.8
+16,1990,Other and unknown Hispanic,56307,*,*
+17,1990,Puerto Rican,58807,21.6,82.9
+18,1990,Total Hispanic,595073,26.7,107.7
+19,1990,Total Non-Hispanic,3457417,15.7,67.1
+20,1991,All origins,4094566,16.2,69.3
+21,1991,Central and South American,86908,28.3,105.5
+22,1991,Cuban,11058,9.8,47.6
+23,1991,Mexican,411233,27.6,114.9
+24,1991,Non-Hispanic Black,666758,22.4,87.0
+25,1991,Non-Hispanic White,2589878,13.9,60.9
+26,1991,Other and unknown Hispanic,54053,*,*
+27,1991,Puerto Rican,59833,23.3,87.9
+28,1991,Total Hispanic,623085,26.5,106.9
+29,1991,Total Non-Hispanic,3434464,15.2,65.2
+30,1992,All origins,4049024,15.8,68.4
+31,1992,Central and South American,89031,27.5,104.7
+32,1992,Cuban,11472,10.1,49.4
+33,1992,Mexican,432047,27.4,113.3
+34,1992,Non-Hispanic Black,657450,21.6,84.5
+35,1992,Non-Hispanic White,2527207,13.4,60.0
+36,1992,Other and unknown Hispanic,51152,*,*
+37,1992,Puerto Rican,59569,22.9,87.9
+38,1992,Total Hispanic,643271,26.1,106.1
+39,1992,Total Non-Hispanic,3365862,14.8,64.2
+40,1993,All origins,4000240,15.4,67.0
+41,1993,Central and South American,92371,26.3,101.5
+42,1993,Cuban,11916,10.5,53.9
+43,1993,Mexican,443733,26.8,110.9
+44,1993,Non-Hispanic Black,641273,20.7,81.5
+45,1993,Non-Hispanic White,2472031,13.1,58.9
+46,1993,Other and unknown Hispanic,48296,*,*
+47,1993,Puerto Rican,58102,21.5,79.8
+48,1993,Total Hispanic,654418,25.4,103.3
+49,1993,Total Non-Hispanic,3295345,14.3,62.7
+50,1994,All origins,3952767,15.0,65.9
+51,1994,Central and South American,93485,24.9,93.2
+52,1994,Cuban,11889,10.7,53.6
+53,1994,Mexican,454536,26.1,109.9
+54,1994,Non-Hispanic Black,619198,19.5,77.5
+55,1994,Non-Hispanic White,2438855,12.8,58.2
+56,1994,Other and unknown Hispanic,47876,*,*
+57,1994,Puerto Rican,57240,20.8,78.2
+58,1994,Total Hispanic,665026,24.7,100.7
+59,1994,Total Non-Hispanic,3245115,13.9,61.6
+60,1995,All origins,3899589,14.6,64.6
+61,1995,Central and South American,94996,24.2,89.1
+62,1995,Cuban,12473,10.8,52.2
+63,1995,Mexican,469615,25.8,109.9
+64,1995,Non-Hispanic Black,587781,18.2,72.8
+65,1995,Non-Hispanic White,2382638,12.5,57.5
+66,1995,Other and unknown Hispanic,47860,*,*
+67,1995,Puerto Rican,54824,19.0,71.3
+68,1995,Total Hispanic,679768,24.1,98.8
+69,1995,Total Non-Hispanic,3160495,13.5,60.2
+70,1996,All origins,3891494,14.4,64.1
+71,1996,Central and South American,97888,22.5,84.2
+72,1996,Cuban,12613,10.6,55.1
+73,1996,Mexican,489666,26.2,110.7
+74,1996,Non-Hispanic Black,578099,17.6,70.7
+75,1996,Non-Hispanic White,2358989,12.3,57.1
+76,1996,Other and unknown Hispanic,46309,*,*
+77,1996,Puerto Rican,54863,17.2,66.5
+78,1996,Total Hispanic,701339,23.8,97.5
+79,1996,Total Non-Hispanic,3133484,13.3,59.6
+80,1997,All origins,3880894,14.2,63.6
+81,1997,Central and South American,97405,21.3,80.6
+82,1997,Cuban,12887,10.0,53.1
+83,1997,Mexican,499024,25.3,106.6
+84,1997,Non-Hispanic Black,581431,17.4,70.3
+85,1997,Non-Hispanic White,2333363,12.2,56.8
+86,1997,Other and unknown Hispanic,45001,*,*
+87,1997,Puerto Rican,55450,17.2,65.8
+88,1997,Total Hispanic,709767,23.0,94.2
+89,1997,Total Non-Hispanic,3115174,13.1,59.3
+90,1998,All origins,3941553,14.3,64.3
+91,1998,Central and South American,98226,21.7,83.5
+92,1998,Cuban,13226,9.7,46.5
+93,1998,Mexican,516011,24.6,103.2
+94,1998,Non-Hispanic Black,593127,17.5,70.9
+95,1998,Non-Hispanic White,2361462,12.2,57.6
+96,1998,Other and unknown Hispanic,49849,*,*
+97,1998,Puerto Rican,57349,17.9,69.7
+98,1998,Total Hispanic,734661,22.7,93.2
+99,1998,Total Non-Hispanic,3158975,13.2,60.0
+100,1999,All origins,3959417,14.2,64.4
+101,1999,Central and South American,103307,21.7,84.8
+102,1999,Cuban,13088,9.4,47.0
+103,1999,Mexican,540674,24.2,101.5
+104,1999,Non-Hispanic Black,588981,17.1,69.9
+105,1999,Non-Hispanic White,2346450,12.1,57.7
+106,1999,Other and unknown Hispanic,50132,*,*
+107,1999,Puerto Rican,57138,18.0,71.1
+108,1999,Total Hispanic,764339,22.5,93.0
+109,1999,Total Non-Hispanic,3147580,13.0,60.0
+110,2000,All origins,4058814,14.4,65.9
+111,2000,Central and South American,113344,21.8,85.1
+112,2000,Cuban,13429,9.7,49.3
+113,2000,Mexican,581915,25.0,105.1
+114,2000,Non-Hispanic Black,604346,17.3,71.4
+115,2000,Non-Hispanic White,2362968,12.2,58.5
+116,2000,Other and unknown Hispanic,49056,*,*
+117,2000,Puerto Rican,58124,18.1,73.5
+118,2000,Total Hispanic,815868,23.1,95.9
+119,2000,Total Non-Hispanic,3199994,13.2,61.1
+120,2001,All origins,4025933,14.1,65.1
+121,2001,Central and South American,121365,21.7,82.2
+122,2001,Cuban,14017,10.3,56.4
+123,2001,Mexican,611000,24.7,105.0
+124,2001,Non-Hispanic Black,589917,16.6,69.1
+125,2001,Non-Hispanic White,2326578,11.9,57.7
+126,2001,Other and unknown Hispanic,47901,*,*
+127,2001,Puerto Rican,57568,17.7,71.7
+128,2001,Total Hispanic,851851,22.9,95.4
+129,2001,Total Non-Hispanic,3149572,12.8,60.0
+130,2002,All origins,4021726,14.0,65.0
+131,2002,Central and South American,125981,22.5,86.5
+132,2002,Cuban,14232,10.1,59.3
+133,2002,Mexican,627505,24.3,103.0
+134,2002,Non-Hispanic Black,578335,16.1,67.5
+135,2002,Non-Hispanic White,2298156,11.7,57.6
+136,2002,Other and unknown Hispanic,51459,*,*
+137,2002,Puerto Rican,57465,16.5,65.6
+138,2002,Total Hispanic,876642,22.7,94.7
+139,2002,Total Non-Hispanic,3119944,12.6,59.8
+140,2003,All origins,4089950,14.1,66.1
+141,2003,Central and South American,135586,23.0,89.7
+142,2003,Cuban,14867,10.0,60.8
+143,2003,Mexican,654504,24.6,103.7
+144,2003,Non-Hispanic Black,576033,15.9,67.1
+145,2003,Non-Hispanic White,2321904,11.8,58.9
+146,2003,Other and unknown Hispanic,48972,*,*
+147,2003,Puerto Rican,58400,15.0,60.6
+148,2003,Total Hispanic,912329,22.8,95.2
+149,2003,Total Non-Hispanic,3149034,12.7,60.7
+150,2004,All origins,4112052,14.0,66.4
+151,2004,Central and South American,143520,22.1,87.4
+152,2004,Cuban,14943,9.3,52.2
+153,2004,Mexican,677621,24.8,104.5
+154,2004,Non-Hispanic Black,578772,15.8,67.1
+155,2004,Non-Hispanic White,2296683,11.7,58.9
+156,2004,Other and unknown Hispanic,49044,*,*
+157,2004,Puerto Rican,61221,16.0,66.8
+158,2004,Total Hispanic,946349,22.8,95.7
+159,2004,Total Non-Hispanic,3133125,12.6,60.8
+160,2005,All origins,4138349,14.0,66.7
+161,2005,Central and South American,151201,22.7,90.5
+162,2005,Cuban,16064,10.2,49.1
+163,2005,Mexican,693197,24.5,104.5
+164,2005,Non-Hispanic Black,583759,15.8,67.2
+165,2005,Non-Hispanic White,2279768,11.6,59.0
+166,2005,Other and unknown Hispanic,61703,*,*
+167,2005,Puerto Rican,63340,17.0,69.8
+168,2005,Total Hispanic,985505,22.9,96.4
+169,2005,Total Non-Hispanic,3123005,12.5,60.8
+170,2006,All origins,4265555,14.3,68.6
+171,2006,Central and South American,165321,23.8,95.6
+172,2006,Cuban,16936,10.4,47.9
+173,2006,Mexican,718146,24.6,105.6
+174,2006,Non-Hispanic Black,617247,16.5,70.7
+175,2006,Non-Hispanic White,2308640,11.7,60.3
+176,2006,Other and unknown Hispanic,71742,*,*
+177,2006,Puerto Rican,66932,17.5,71.6
+178,2006,Total Hispanic,1039077,23.3,98.3
+179,2006,Total Non-Hispanic,3196082,12.7,62.5
+180,2007,All origins,4316233,14.3,69.3
+181,2007,Central and South American,169851,24.6,100.1
+182,2007,Cuban,16981,10.2,47.6
+183,2007,Mexican,722055,23.9,102.8
+184,2007,Non-Hispanic Black,627191,16.6,71.4
+185,2007,Non-Hispanic White,2310333,11.7,61.0
+186,2007,Other and unknown Hispanic,85404,*,*
+187,2007,Puerto Rican,68488,17.1,70.3
+188,2007,Total Hispanic,1062779,23.0,97.4
+189,2007,Total Non-Hispanic,3222460,12.8,63.3
+190,2008,All origins,4247694,14.0,68.1
+191,2008,Central and South American,155578,26.1,109.1
+192,2008,Cuban,16718,10.1,50.1
+193,2008,Mexican,684883,21.7,92.6
+194,2008,Non-Hispanic Black,623029,16.3,70.8
+195,2008,Non-Hispanic White,2267817,11.5,60.5
+196,2008,Other and unknown Hispanic,115045,*,*
+197,2008,Puerto Rican,69015,16.4,67.0
+198,2008,Total Hispanic,1041239,21.8,92.7
+199,2008,Total Non-Hispanic,3173629,12.5,62.7
+200,2009,All origins,4130665,13.5,66.2
+201,2009,Central and South American,148647,25.5,107.5
+202,2009,Cuban,16641,9.5,46.0
+203,2009,Mexican,645297,19.8,84.8
+204,2009,Non-Hispanic Black,609584,15.7,68.9
+205,2009,Non-Hispanic White,2212552,11.2,59.6
+206,2009,Other and unknown Hispanic,120477,*,*
+207,2009,Puerto Rican,68486,15.5,63.7
+208,2009,Total Hispanic,999548,20.3,86.5
+209,2009,Total Non-Hispanic,3101330,12.2,61.6
+210,2010,All origins,3999386,13.0,64.1
+211,2010,Central and South American,142692,23.4,97.1
+212,2010,Cuban,16882,9.0,46.4
+213,2010,Mexican,598317,18.2,78.2
+214,2010,Non-Hispanic Black,589808,15.1,66.6
+215,2010,Non-Hispanic White,2162406,10.9,58.7
+216,2010,Other and unknown Hispanic,120921,*,*
+217,2010,Puerto Rican,66368,14.1,59.7
+218,2010,Total Hispanic,945180,18.7,80.2
+219,2010,Total Non-Hispanic,3026614,11.8,60.4
+220,2011,All origins,3953590,12.7,63.2
+221,2011,Central and South American,136221,23.0,96.3
+222,2011,Cuban,17131,9.1,46.1
+223,2011,Mexican,566699,16.9,73.0
+224,2011,Non-Hispanic Black,582345,14.7,65.4
+225,2011,Non-Hispanic White,2146566,10.8,58.7
+226,2011,Other and unknown Hispanic,131060,*,*
+227,2011,Puerto Rican,67018,13.7,59.6
+228,2011,Total Hispanic,918129,17.6,76.2
+229,2011,Total Non-Hispanic,3008200,11.7,60.1
+230,2012,All origins,3952841,12.6,63.0
+231,2012,Central and South American,131794,22.3,94.9
+232,2012,Cuban,17396,8.9,45.4
+233,2012,Mexican,555823,16.3,70.7
+234,2012,Non-Hispanic Black,583489,14.6,65.0
+235,2012,Non-Hispanic White,2134044,10.7,58.6
+236,2012,Other and unknown Hispanic,135482,*,*
+237,2012,Puerto Rican,67182,13.5,58.2
+238,2012,Total Hispanic,907677,17.1,74.4
+239,2012,Total Non-Hispanic,3014314,11.7,60.3
+240,2013,All origins,3932181,12.4,62.5
+241,2013,Central and South American,131305,*,*
+242,2013,Cuban,18854,*,*
+243,2013,Mexican,545202,*,*
+244,2013,Non-Hispanic Black,583834,14.4,64.6
+245,2013,Non-Hispanic White,2129196,10.7,58.7
+246,2013,Other and unknown Hispanic,137370,*,*
+247,2013,Puerto Rican,68302,*,*
+248,2013,Total Hispanic,901033,16.7,72.9
+249,2013,Total Non-Hispanic,3003556,11.6,59.9
